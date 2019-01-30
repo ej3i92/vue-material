@@ -104,7 +104,7 @@
   @import "~vue-material/components/MdAnimation/variables";
   @import "~vue-material/components/MdLayout/mixins";
 
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   @include md-register-theme("nuxt", (
     primary: #46A37A

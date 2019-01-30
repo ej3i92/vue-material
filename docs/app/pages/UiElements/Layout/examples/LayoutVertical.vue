@@ -13,7 +13,7 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .md-layout-vertical {
     height: 480px;

@@ -97,7 +97,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   @include md-register-theme("green-card", (
     primary: md-get-palette-color(green, 500)

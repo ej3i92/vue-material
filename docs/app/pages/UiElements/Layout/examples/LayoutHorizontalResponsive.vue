@@ -17,7 +17,7 @@
 
 <style lang="scss" scoped>
   @import "~vue-material/components/MdAnimation/variables";
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .md-layout-item {
     height: 40px;

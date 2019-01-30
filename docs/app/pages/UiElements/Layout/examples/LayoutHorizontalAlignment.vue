@@ -56,7 +56,7 @@
 
 <style lang="scss" scoped>
   @import "~vue-material/components/MdAnimation/variables";
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .md-layout {
     transition: .3s $md-transition-stand-timing;

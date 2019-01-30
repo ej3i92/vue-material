@@ -53,7 +53,7 @@
 </script>
 
 <style lang="scss" scoped>
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .phone-viewport {
     width: 322px;

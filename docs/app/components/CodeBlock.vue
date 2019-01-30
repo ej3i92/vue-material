@@ -72,7 +72,7 @@
 
 <style lang="scss" scoped>
   @import "~vue-material/components/MdAnimation/variables";
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .code-block {
     max-width: 100%;
@@ -157,7 +157,7 @@
 </style>
 
 <style lang="scss">
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .hljs {
     color: md-get-palette-color(grey, 200);

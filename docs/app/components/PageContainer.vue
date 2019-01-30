@@ -41,7 +41,7 @@
 
 <style lang="scss" scoped>
   @import "~vue-material/components/MdAnimation/variables";
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .page-container.centered {
     max-width: 1100px;

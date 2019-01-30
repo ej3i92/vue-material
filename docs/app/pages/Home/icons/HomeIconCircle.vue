@@ -23,7 +23,7 @@
 <style lang="scss" scoped>
   @import "~vue-material/components/MdAnimation/variables";
   @import "~vue-material/components/MdLayout/mixins";
-  @import "~vue-material/theme/engine";
+  @import "~vue-material/dist/theme/engine";
 
   .home-icon-circle {
     &:hover .circle {
